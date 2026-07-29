@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Samyak122/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Samyak122/Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Samyak122/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Samyak122/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samyak122/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Samyak122/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
