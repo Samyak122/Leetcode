@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Samyak122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Samyak122/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Samyak122/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/Samyak122/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Samyak122/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Samyak122/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Samyak122/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samyak122/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Samyak122/Leetcode/tree/master/0055-jump-game) |
 ## String
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Samyak122/Leetcode/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Samyak122/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
