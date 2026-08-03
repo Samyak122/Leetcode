@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Samyak122/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Samyak122/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samyak122/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Samyak122/Leetcode/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/Samyak122/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samyak122/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Samyak122/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Samyak122/Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Samyak122/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Samyak122/Leetcode/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/Samyak122/Leetcode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Samyak122/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Samyak122/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Samyak122/Leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samyak122/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
