@@ -5,9 +5,9 @@ class Solution {
             if(set.contains(num)){
                 return true;
             }
-            else{
+          
                 set.add(num);
-            }
+            
         }
         return false;
     }
