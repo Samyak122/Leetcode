@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Samyak122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Samyak122/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Samyak122/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/Samyak122/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Samyak122/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Samyak122/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Samyak122/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -124,10 +125,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Samyak122/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Samyak122/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samyak122/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Samyak122/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Samyak122/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
