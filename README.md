@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Samyak122/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Samyak122/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Samyak122/Leetcode/tree/master/0066-plus-one) |
+| [1518-water-bottles](https://github.com/Samyak122/Leetcode/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Samyak122/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1518-water-bottles](https://github.com/Samyak122/Leetcode/tree/master/1518-water-bottles) |
 ## String Matching
 |  |
 | ------- |
