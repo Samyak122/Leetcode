@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Samyak122/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Samyak122/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Samyak122/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Samyak122/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Samyak122/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Samyak122/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Samyak122/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Samyak122/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Samyak122/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Samyak122/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Samyak122/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Samyak122/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Samyak122/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Samyak122/Leetcode/tree/master/0148-sort-list) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Samyak122/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Samyak122/Leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
