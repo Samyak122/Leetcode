@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Samyak122/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Samyak122/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Samyak122/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/Samyak122/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/Samyak122/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Samyak122/Leetcode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Samyak122/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Samyak122/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samyak122/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
 |  |
