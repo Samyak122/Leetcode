@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Samyak122/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Samyak122/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Samyak122/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Samyak122/Leetcode/tree/master/0202-happy-number) |
 | [1518-water-bottles](https://github.com/Samyak122/Leetcode/tree/master/1518-water-bottles) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Samyak122/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Samyak122/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Samyak122/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Samyak122/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Samyak122/Leetcode/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/Samyak122/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Samyak122/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Samyak122/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Samyak122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Samyak122/Leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Samyak122/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Samyak122/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Samyak122/Leetcode/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samyak122/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Samyak122/Leetcode/tree/master/0070-climbing-stairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Samyak122/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
