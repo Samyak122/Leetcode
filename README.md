@@ -248,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Samyak122/Leetcode/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Samyak122/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
