@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Samyak122/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samyak122/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Samyak122/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Samyak122/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Samyak122/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Samyak122/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Samyak122/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Samyak122/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Samyak122/Leetcode/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samyak122/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Samyak122/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Samyak122/Leetcode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Samyak122/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Samyak122/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Samyak122/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Samyak122/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Samyak122/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samyak122/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Samyak122/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Samyak122/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samyak122/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Samyak122/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
