@@ -1,23 +1,17 @@
 class Solution {
-    public int firstUniqChar(String str) {
-        int index = -1;
+    public int firstUniqChar(String s) {
+        int[] freq = new int[26];
 
-        Map<Character, Integer > map = new HashMap<>();
-
-        for(int i =0; i<str.length();i++){
-            char c =str.charAt(i);
-
-            int freq = map.getOrDefault(c,0);
-
-            map.put(c, (freq+1));
+        for (int i = 0; i < s.length(); i++) {
+            freq[s.charAt(i) - 'a']++;
         }
 
-        for(int i =0; i<str.length(); i++){
-            if(map.get(str.charAt(i))==1){
-                index = i;
-                break;
+        for (int i = 0; i < s.length(); i++) {
+            if (freq[s.charAt(i) - 'a'] == 1) {
+                return i;
             }
         }
-        return index;
+
+        return -1;
     }
 }
