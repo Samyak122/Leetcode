@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Samyak122/Leetcode/tree/master/0202-happy-number) |
 | [1518-water-bottles](https://github.com/Samyak122/Leetcode/tree/master/1518-water-bottles) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Samyak122/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Samyak122/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Samyak122/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Samyak122/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Samyak122/Leetcode/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samyak122/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Samyak122/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Samyak122/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
